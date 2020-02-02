@@ -115,7 +115,7 @@ http://www.templatemo.com/tm-515-eatery
 
   section {
     position: relative;
-    padding: 100px 0;
+    padding: 50px 0;
   }
 
   #projects, 
@@ -124,11 +124,13 @@ http://www.templatemo.com/tm-515-eatery
     text-align: center;
   }
 
-  .about-image img,
   .projects-thumb img {
     width: 100%;
   }
-  
+
+  .about-image img,{
+	  width: 100%;
+  }  
 
 
 
@@ -447,9 +449,6 @@ http://www.templatemo.com/tm-515-eatery
     padding-bottom: 20px;
   }
 
-  .about-image {
-    position: absolute;
-  }
 
 
 
@@ -755,8 +754,8 @@ http://www.templatemo.com/tm-515-eatery
 
   footer {
     border-top: 1px solid rgba(0,0,0,0.05);
-    padding: 120px 0;
-    padding-bottom: 80px;
+    padding: 30px 0;
+    padding-bottom: 30px;
 	text-align: center;
   }
 
@@ -986,14 +985,14 @@ http://www.templatemo.com/tm-515-eatery
     }
 
     footer {
-      padding: 60px 0;
-      padding-bottom: 60px;
+      padding: 10px 0;
+      padding-bottom: 30px;
     }
 
     .footer-open-hour {
       right: 0;
       bottom: 0;
-      margin-top: 30px;
+      margin-top: 10px;
     }
   }
 
@@ -1052,7 +1051,6 @@ http://www.templatemo.com/tm-515-eatery
 
   .skills-info .section-title {
     padding-bottom: 20px;
-	text-align: center;
   }
 	/*  IDK why the section-title is not text-aligning center  */
 
